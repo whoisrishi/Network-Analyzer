@@ -1,0 +1,16 @@
+> Port Scanner
+==============
+
+ Target:	127.0.0.1
+ IP Adr.:	127.0.0.1
+ Ports: 	[ 1 / 150 ]
+ Result:	[ 8 / 150 ]
+
+ Port 21 	[open]
+ Port 25 	[open]
+ Port 79 	[open]
+ Port 105 	[open]
+ Port 106 	[open]
+ Port 110 	[open]
+ Port 135 	[open]
+ Port 143 	[open]
