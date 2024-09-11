@@ -1,0 +1,1 @@
+The Network Traffic Logging Tool is a final-year project developed by a team of four students. This tool provides functionalities for logging network traffic, including features for port scanning, IP blocking, and network troubleshooting. The project aims to offer a practical solution for managing and analyzing network activity.
